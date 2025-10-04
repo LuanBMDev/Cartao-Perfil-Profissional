@@ -1,0 +1,8 @@
+.cartao-perfil {
+    width: 300px;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 1);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 0 auto;
+}
